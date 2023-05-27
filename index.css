@@ -1,0 +1,86 @@
+html, body {
+    padding: 0;
+    margin: 0 auto;
+    width: 375px;
+    background: #FFFFFF;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 16px;
+
+}
+/* typography */
+header{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    border-bottom: 1px solid #C6C6C6;
+    padding: 16px 8px;
+    width: 375px;
+    margin: 0 auto;
+}
+
+.logo-img{
+    width: 127px;
+}
+
+.user-avatar-img, 
+.avatar-vangogh-img, 
+.avatar-durcreux-img, 
+.avatar-courbet-img{
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.post-vangogh-img, 
+.post-courbet-img, 
+.post-ducreux-img{
+    height: 375px;
+    width: 375px;
+}
+
+.section-one{
+    display: flex;
+    margin-left: 10px;
+}
+
+h3{
+    margin-left: 7px;
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 0;
+}
+
+h4{
+    font-weight: 700;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+p{
+    font-weight: 500;
+    margin-top: 0;
+}
+
+.line-img{
+    padding: 15px 0;
+    background: #EDEDED;
+}
+
+.icons{
+    margin: 15px 4px;
+    margin-bottom: 10px;
+    width: 28px;
+    height: 28px;
+}
+
+.user-name-caption{
+    font-size: 13px;
+    margin-left: 10px;
+    line-height: 16px;
+}
+
+span{
+    font-weight: 700;
+}
+
