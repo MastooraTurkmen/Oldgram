@@ -15,3 +15,8 @@ There are also wonderful icons.
 
 
 ## Cloning the project 🪛🔨
+
+```
+# Clone this repository
+
+```
