@@ -18,5 +18,7 @@ There are also wonderful icons.
 
 ```
 # Clone this repository
+$ git clone https://github.com/MastooraTurkmen/Oldgram.git
+
 
 ```
