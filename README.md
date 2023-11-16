@@ -16,9 +16,10 @@ There are also wonderful icons.
 
 ## Cloning the project 🪛🔨
 
-```
+```bash
 # Clone this repository
 $ git clone https://github.com/MastooraTurkmen/Oldgram.git
 
+# Go inside the repository 
 
 ```
