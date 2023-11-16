@@ -23,3 +23,6 @@ $ git clone https://github.com/MastooraTurkmen/Oldgram.git
 # Go inside the repository 
 $ cd Oldgram
 ```
+
+-----
+
