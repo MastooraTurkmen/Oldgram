@@ -26,3 +26,4 @@ $ cd Oldgram
 
 -----
 
+## Languages and Tools are used 🗣️🔧
