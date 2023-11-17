@@ -38,6 +38,8 @@ $ cd Oldgram
 
 2. **Tools** 🔧
 
+    + [Chrome](https://github.com/topics/chrome)
+
 
 
 ------
