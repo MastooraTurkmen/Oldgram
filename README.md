@@ -151,4 +151,14 @@ $ cd Oldgram
 
 ```css
 
+html, 
+body {
+    padding: 0;
+    margin: 0 auto;
+    width: 375px;
+    background: #FFFFFF;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: 16px;
+
+}
 ```
