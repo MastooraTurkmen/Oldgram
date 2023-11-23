@@ -115,6 +115,21 @@ $ cd Oldgram
             <p class="user-name-caption"><span>vincey1853</span>  just took a few mushrooms lol</p>
             <div class="line-img"></div>
     </section>
+    <section>
+        <div class="section-one">
+            <img class="avatar-courbet-img" src="images/avatar-courbet.jpg">
+            <h3>Gustave Courbet<p>Ornans, France</p></h3>
+        </div>
+        <img class="post-courbet-img" src="images/post-courbet.jpg">
+        <img class="icons" src="images/icon-heart.png">
+        <img class="icons" src="images/icon-comment.png">
+        <img class="icons" src="images/icon-dm.png">
+        <h4>12,502 likes</h4>
+        <p class="user-name-caption"><span>gus1819</span> i'm feelin a bit stressed tbh</p>
+        <div class="line-img"></div>
+    </section>
+    
+        
     <script src="index.js"></script>
 </body>
 </html>
