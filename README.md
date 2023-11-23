@@ -195,4 +195,8 @@ header{
     width: 375px;
 }
 
+.section-one{
+    display: flex;
+    margin-left: 10px;
+}
 ```
