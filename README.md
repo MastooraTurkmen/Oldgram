@@ -96,28 +96,25 @@ $ cd Oldgram
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;900&display=swap" rel="stylesheet">
     <title>Oldgram</title>
 </head>
-<body>
-
-            
-        <header>
-            <img class="logo-img" src="images/logo.png">
-            <img class="user-avatar-img" src="images/user-avatar.png">
-        </header>
-        
-        <section>
-            <div class="section-one">
-                    <img class="avatar-vangogh-img" src="images/avatar-vangogh.jpg">
-                    <h3>Vincent van Gogh<p>Zudert, Netherlands</p></h3>
-                </div>
-                <img class="post-vangogh-img" src="images/post-vangogh.jpg">
-                <img class="icons" src="images/icon-heart.png">
-                <img class="icons" src="images/icon-comment.png">
-                <img class="icons" src="images/icon-dm.png">
-                <h4>21,492 likes</h4>
-                <p class="user-name-caption"><span>vincey1853</span>  just took a few mushrooms lol</p>
-                <div class="line-img"></div>
-        </section>
-
+<body>      
+    <header>
+        <img class="logo-img" src="images/logo.png">
+        <img class="user-avatar-img" src="images/user-avatar.png">
+    </header>
+    
+    <section>
+        <div class="section-one">
+                <img class="avatar-vangogh-img" src="images/avatar-vangogh.jpg">
+                <h3>Vincent van Gogh<p>Zudert, Netherlands</p></h3>
+            </div>
+            <img class="post-vangogh-img" src="images/post-vangogh.jpg">
+            <img class="icons" src="images/icon-heart.png">
+            <img class="icons" src="images/icon-comment.png">
+            <img class="icons" src="images/icon-dm.png">
+            <h4>21,492 likes</h4>
+            <p class="user-name-caption"><span>vincey1853</span>  just took a few mushrooms lol</p>
+            <div class="line-img"></div>
+    </section>
     <script src="index.js"></script>
 </body>
 </html>
