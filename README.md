@@ -128,8 +128,18 @@ $ cd Oldgram
         <p class="user-name-caption"><span>gus1819</span> i'm feelin a bit stressed tbh</p>
         <div class="line-img"></div>
     </section>
-    
-        
+    <section>
+        <div class="section-one">
+            <img class="avatar-durcreux-img" src="images/avatar-ducreux.jpg">
+            <h3>Joseph Ducreux<p>Paris, France</p></h3>
+        </div>
+        <img class="post-ducreux-img" src="images/post-ducreux.jpg">
+        <img class="icons" src="images/icon-heart.png">
+        <img class="icons" src="images/icon-comment.png">
+        <img class="icons" src="images/icon-dm.png">
+        <h4>15,137 likes</h4>
+        <p class="user-name-caption"><span>jd1735</span> gm friends! which coin are YOU stacking up today?? post below and WAGMI!</p>
+    </section>  
     <script src="index.js"></script>
 </body>
 </html>
