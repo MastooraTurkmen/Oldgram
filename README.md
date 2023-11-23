@@ -163,6 +163,7 @@ body {
 }
 
 /* typography */
+
 header{
     display: flex;
     justify-content: space-between;
@@ -172,6 +173,7 @@ header{
     width: 375px;
     margin: 0 auto;
 }
+
 .logo-img{
     width: 127px;
 }
