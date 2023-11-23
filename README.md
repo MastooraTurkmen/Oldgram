@@ -177,4 +177,14 @@ header{
 .logo-img{
     width: 127px;
 }
+
+.user-avatar-img, 
+.avatar-vangogh-img, 
+.avatar-durcreux-img, 
+.avatar-courbet-img{
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
 ```
