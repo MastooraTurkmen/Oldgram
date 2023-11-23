@@ -161,4 +161,16 @@ body {
     line-height: 16px;
 
 }
+
+/* typography */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    border-bottom: 1px solid #C6C6C6;
+    padding: 16px 8px;
+    width: 375px;
+    margin: 0 auto;
+}
 ```
