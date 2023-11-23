@@ -177,6 +177,7 @@ header{
 .logo-img{
     width: 127px;
 }
+
 .user-avatar-img, 
 .avatar-vangogh-img, 
 .avatar-durcreux-img, 
@@ -186,6 +187,7 @@ header{
     border-radius: 50%;
     margin-top: 10px;
 }
+
 .post-vangogh-img, 
 .post-courbet-img, 
 .post-ducreux-img{
