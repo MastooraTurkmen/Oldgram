@@ -187,4 +187,12 @@ header{
     border-radius: 50%;
     margin-top: 10px;
 }
+
+.post-vangogh-img, 
+.post-courbet-img, 
+.post-ducreux-img{
+    height: 375px;
+    width: 375px;
+}
+
 ```
