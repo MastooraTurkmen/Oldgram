@@ -163,7 +163,6 @@ body {
 }
 
 /* typography */
-
 header{
     display: flex;
     justify-content: space-between;
