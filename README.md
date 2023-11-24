@@ -223,4 +223,13 @@ p{
     padding: 15px 0;
     background: #EDEDED;
 }
+
+.icons{
+    margin: 15px 4px;
+    margin-bottom: 10px;
+    width: 28px;
+    height: 28px;
+}
+
+
 ```
