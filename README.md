@@ -199,4 +199,11 @@ header{
     display: flex;
     margin-left: 10px;
 }
+
+h3{
+    margin-left: 7px;
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 0;
+}
 ```
