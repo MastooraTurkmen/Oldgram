@@ -231,5 +231,9 @@ p{
     height: 28px;
 }
 
-
+.user-name-caption{
+    font-size: 13px;
+    margin-left: 10px;
+    line-height: 16px;
+}
 ```
