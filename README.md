@@ -247,7 +247,9 @@ span{
 
 ```js
 const posts = [
-  
+    {
+        name: "Vincent van Gogh",
+        
 ]
 
 
