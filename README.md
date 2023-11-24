@@ -249,6 +249,7 @@ span{
 const posts = [
     {
         name: "Vincent van Gogh",
+        username: "vincey1853",
         
 ]
 
