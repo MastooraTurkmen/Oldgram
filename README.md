@@ -218,4 +218,9 @@ p{
     font-weight: 500;
     margin-top: 0;
 }
+
+.line-img{
+    padding: 15px 0;
+    background: #EDEDED;
+}
 ```
