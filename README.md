@@ -246,5 +246,9 @@ span{
 ## ***Index JS***   
 
 ```js
+const posts = [
+  
+]
+
 
 ```
