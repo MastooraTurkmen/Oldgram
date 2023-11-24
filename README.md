@@ -213,4 +213,9 @@ h4{
     margin-left: 10px;
     margin-top: 0px;
 }
+
+p{
+    font-weight: 500;
+    margin-top: 0;
+}
 ```
