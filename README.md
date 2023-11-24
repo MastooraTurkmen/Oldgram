@@ -236,4 +236,8 @@ p{
     margin-left: 10px;
     line-height: 16px;
 }
+
+span{
+    font-weight: 700;
+}
 ```
