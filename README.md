@@ -251,6 +251,7 @@ const posts = [
         name: "Vincent van Gogh",
         username: "vincey1853",
         location: "Zundert, Netherlands",
+        avatar: "images/avatar-vangogh.jpg",
 
 ]
 
