@@ -54,7 +54,7 @@ $ cd Oldgram
 4. From there select **_Deploy with Github_**.
    ![Oldgram](image.png)
 5. Then write your project name and select it.
-   ![Alt text](image-1.png)
+   ![Oldgram](image-1.png)
 6. After selecting here you can see that the project **_Review configuration for Oldgram_** and then select the **_Deploy Oldgram_** Button.
    ![Alt text](image-2.png)
    ![Alt text](image-3.png)
