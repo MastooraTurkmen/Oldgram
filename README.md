@@ -260,6 +260,7 @@ const posts = [
         name: "Gustave Courbet",
         username: "gus1819",
         location: "Ornans, France",
+        avatar: "images/avatar-courbet.jpg",
         
     },
 
