@@ -262,7 +262,7 @@ const posts = [
         location: "Ornans, France",
         avatar: "images/avatar-courbet.jpg",
         post: "images/post-courbet.jpg",
-        
+        comment: "i'm feelin a bit stressed tbh",
     },
 
 ]
