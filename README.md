@@ -256,7 +256,9 @@ const posts = [
         comment: "just took a few mushrooms lol",
         likes: 21
     },
-    
+    {
+        
+    },
 ]
 
 
