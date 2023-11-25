@@ -263,6 +263,7 @@ const posts = [
         avatar: "images/avatar-courbet.jpg",
         post: "images/post-courbet.jpg",
         comment: "i'm feelin a bit stressed tbh",
+        likes: 4
     },
 
 ]
