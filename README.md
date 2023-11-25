@@ -257,8 +257,10 @@ const posts = [
         likes: 21
     },
     {
+        name: "Gustave Courbet",
         
     },
+
 ]
 
 
