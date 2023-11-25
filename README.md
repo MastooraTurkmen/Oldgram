@@ -258,6 +258,7 @@ const posts = [
     },
     {
         name: "Gustave Courbet",
+        username: "gus1819",
         
     },
 
