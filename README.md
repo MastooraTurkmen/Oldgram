@@ -110,8 +110,8 @@ $ cd Oldgram
     
     <section>
         <div class="section-one">
-                <img class="avatar-vangogh-img" src="images/avatar-vangogh.jpg">
-                <h3>Vincent van Gogh<p>Zudert, Netherlands</p></h3>
+              <img class="avatar-vangogh-img" src="images/avatar-vangogh.jpg">
+              <h3>Vincent van Gogh<p>Zudert, Netherlands</p></h3>
             </div>
             <img class="post-vangogh-img" src="images/post-vangogh.jpg">
             <img class="icons" src="images/icon-heart.png">
@@ -151,7 +151,6 @@ $ cd Oldgram
 </html>
 
 ```
-
 
 ## ***Index CSS***
 
