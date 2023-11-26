@@ -13,6 +13,9 @@ There are also wonderful icons.
 ![oldgram-3](https://github.com/MastooraTurkmen/Oldgram/assets/132576850/227c4a81-3bf0-4e12-852c-9cc33a253706)
 
 
+-----
+
+
 ## Cloning the project 🪛🔨
 
 ```bash
