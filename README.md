@@ -52,7 +52,7 @@ $ cd Oldgram
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 3. Go to the Netlify site and select Add a new site.
 4. From there select **_Deploy with Github_**.
-   ![Oldgram](image.png)
+   ![Oldgram](netlify.png)
 5. Then write your project name and select it.
    ![Oldgram](netlify-1.png)
 6. After selecting here you can see that the project **_Review configuration for Oldgram_** and then select the **_Deploy Oldgram_** Button.
