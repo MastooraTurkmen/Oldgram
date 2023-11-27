@@ -56,7 +56,7 @@ $ cd Oldgram
 4. From there select **_Deploy with Github_**.
    ![Oldgram](./netlify-screenshots/netlify.png)
 5. Then write your project name and select it.
-   ![Oldgram](netlify-1.png)
+   ![Oldgram](./netlify-screenshots/netlify-1.png)
 6. After selecting here you can see that the project **_Review configuration for Oldgram_** and then select the **_Deploy Oldgram_** Button.
    ![Oldgram](netlify-2.png)
    ![Oldgram](netlify-3.png)
