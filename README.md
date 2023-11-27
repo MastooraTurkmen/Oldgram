@@ -58,7 +58,7 @@ $ cd Oldgram
 5. Then write your project name and select it.
    ![Oldgram](./netlify-screenshots/netlify-1.png)
 6. After selecting here you can see that the project **_Review configuration for Oldgram_** and then select the **_Deploy Oldgram_** Button.
-   ![Oldgram](netlify-2.png)
+   ![Oldgram](./netlify-screenshots/netlify-2.png)
    ![Oldgram](netlify-3.png)
 7. Now your project is Live.
 
