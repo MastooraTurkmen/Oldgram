@@ -61,6 +61,7 @@ $ cd Oldgram
    ![Oldgram](./netlify-screenshots/netlify-2.png)
    ![Oldgram](./netlify-screenshots/netlify-3.png)
 7. Now your project is Live.
+   ![Alt text](image.png)
 
 
 
