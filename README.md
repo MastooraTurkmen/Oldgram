@@ -110,7 +110,6 @@ $ cd Oldgram
         <img class="logo-img" src="images/logo.png">
         <img class="user-avatar-img" src="images/user-avatar.png">
     </header>
-    
     <section>
         <div class="section-one">
               <img class="avatar-vangogh-img" src="images/avatar-vangogh.jpg">
